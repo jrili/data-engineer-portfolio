@@ -3,9 +3,6 @@
 LinkedIn profile: [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/)
 
 # ETL Projects
-| Name | Description | Certificate of Course Completion |
-| -----| ------------| ---------------------------------|
-| [IBM ETL Heights and Weights](https://github.com/jrili/ibm-etl-heights-weights) | ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera | [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3) |
 
 ## IBM ETL Project: Heights and Weights
 _ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
