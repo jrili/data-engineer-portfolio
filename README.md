@@ -18,3 +18,9 @@ Extract car dealership data (car model, manufacture year, price, fuel type) from
 - Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
 - Tools/Technology used: Python, Jupyter Notebook, Pandas
 
+## IBM Web Scraping Project: Top 50 Films: [jrili/ibm-webscraping-films](https://github.com/jrili/ibm-webscraping-films)
+_ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
+Extract the Average Rank, Film Title, and Year of the Top 50 Highly-Ranked Films then store them to a CSV file and a Database file._
+- Repository Link: [jrili/ibm-webscraping-films](https://github.com/jrili/ibm-webscraping-films)
+- Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
+- Tools/Technology used: Python, Jupyter Notebook, Pandas, BeautifulSoup, sqlite3
