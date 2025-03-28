@@ -2,7 +2,13 @@
 
 LinkedIn profile: [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/)
 
-# ETL Projects
+# ETL and Data Cleaning Projects
+
+## DataCamp Cleaning Bank Marketing Data Project: [jrili/datacamp-cleaning-bank-marketing](https://github.com/jrili/datacamp-cleaning-bank-marketing)
+_Data Cleaning project from Datacamp's [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/learn/projects/1613) project.
+Split, extract, and derive the required data from a given `bank_marketing.csv` and save into three (3) separate CSV files._
+- Repository Link: [jrili/datacamp-cleaning-bank-marketing](https://github.com/jrili/datacamp-cleaning-bank-marketing)
+- Tools/Technology used: Python, Jupyter Notebook, Pandas
 
 ## IBM ETL Project: Heights and Weights: [jrili/ibm-etl-heights-weights](https://github.com/jrili/ibm-etl-heights-weights)
 _ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
@@ -24,3 +30,4 @@ Extract the Average Rank, Film Title, and Year of the Top 50 Highly-Ranked Films
 - Repository Link: [jrili/ibm-webscraping-films](https://github.com/jrili/ibm-webscraping-films)
 - Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
 - Tools/Technology used: Python, Jupyter Notebook, Pandas, BeautifulSoup, sqlite3
+
