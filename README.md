@@ -1,35 +1,42 @@
-# Jessa Rili-Migriño's Data Engineer Portfolio
+Data Engineer Portfolio
+=======================
 
-LinkedIn profile: [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/)
+Hi, I'm Jessa Rili-Migriño - an experienced Software Engineer transitioning into Data Engineering!
 
-# ETL and Data Cleaning Projects
+This portfolio showcases my hands-on projects showcasing my skills in data extraction, transformation, loading (ETL), web scraping, and data pipelines.
 
-## DataCamp Cleaning Bank Marketing Data Project: [jrili/datacamp-cleaning-bank-marketing](https://github.com/jrili/datacamp-cleaning-bank-marketing)
-_Data Cleaning project from Datacamp's [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/learn/projects/1613) project.
-Split, extract, and derive the required data from a given `bank_marketing.csv` and save into three (3) separate CSV files._
-- Repository Link: [jrili/datacamp-cleaning-bank-marketing](https://github.com/jrili/datacamp-cleaning-bank-marketing)
-- Tools/Technology used: Python, Jupyter Notebook, Pandas
+# Projects
+| Project | Description | Tools|
+|---------|-------------|------|
+| [**ETL Pipeline** - Bank Marketing Campaign](https://github.com/jrili/datacamp-cleaning-bank-marketing) | Extracted, cleaned, and derived the required data from banking marketing data, then split into three (3) separate CSV files | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| [**Web Scraping**, **ETL Pipeline** - Top 10 Largest Banks in the World](https://github.com/jrili/ibm-project-world-largest-banks) | Built a web scraping and ETL pipeline to extract financial data on the world's largest banks from [Wikipedia](https://web.archive.org/web/20230908091635%20/https://en.wikipedia.org/wiki/List_of_largest_banks) which are stored on a file and on a database. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) BeautifulSoup4 |
+| [**Exploratory Analysis** - Analyzing Students' Mental Health](https://github.com/jrili/datacamp-analyzing-students-mental-health) | Deployed a local Postgres database, loaded student mental health data, and performed exploratory analysis with SQL queries in a Jupyter notebook| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| [**Web Scraping**, **ETL Pipeline** - Top 50 Films](https://github.com/jrili/ibm-webscraping-films) | Developed a web scraping and ETL pipeline to extract film data collated on [EverybodyWiki](https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films), clean and transform the information, and store them into a file and on a database| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) BeautifulSoup4 |
+| [**ETL Pipeline** - Car Dealership Data](https://github.com/jrili/ibm-etl-car-dealership)| Built an ETL pipeline to extract car dealership data from multiple files of different formats (CSV, JSON, XML), transform them to be uniform, and load  into a single file. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
+| [**ETL Pipeline** - Body Measurements](https://github.com/jrili/ibm-etl-heights-weights) | Built an ETL pipeline to extract height and weight data from multiple files of different formats (CSV, JSON, XML), transform the data into the  required units, and load into a single file. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
+| Coming soon:<br>ETL Pipeline - Health and Supplements Usage Data | Build an ETL pipeline to extract health data from wearable devices and health apps, transform data in various ways as per requirement, and load into a single file. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|
+| Coming soon:<br>ETL Pipeline - Retail Data| Build an ETL pipeline to extract grocery data from a retail company to be augmented with extra data in parquet format, transform and combine the data, and load into a single file. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|
+| Coming soon:<br>Data Transformation - Insurance Policy Data | Load insurance policy data into a locally deployed Postgres database, and produce the required data views using efficient SQL queries in a Jupyter Notebook | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
+| Coming soon:<br>Web Scraping, ETL Pipeline - All Generations Pokemon Data| Scrape the latest pokemon data from the public domain, transform and normalize them, then load into a single file and perhaps into a PostgreSQL database.| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) BeautifulSoup4|
+| [Other Projects Coming Soon] | Expanding into automated ETL pipelines, ETL of real-time data, and cloud-based storage loading.| ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)|
 
-## IBM Web Scraping Project: Top 50 Films: [jrili/ibm-webscraping-films](https://github.com/jrili/ibm-webscraping-films)
-_ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
-Extract the Average Rank, Film Title, and Year of the Top 50 Highly-Ranked Films from [EverybodyWiki: 100 Most Highly-Ranked Films](https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films) then store them to a CSV file and a Database file._
-- Repository Link: [jrili/ibm-webscraping-films](https://github.com/jrili/ibm-webscraping-films)
-- Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
-- Tools/Technology used: Python, Jupyter Notebook, Pandas, BeautifulSoup, sqlite3
+# Skills Practiced
+* **Data Extraction**: APIs, web scraping, file systems
+* **Data Transformation**: Data cleaning, normalization, deduplication
+* **Data Loading**: CSV exports, database readiness
+* **Tools**: Python, Pandas, BeautifulSoup, Bash Scripting, SQL, PostgreSQL, Snowflake, , Microsoft Fabric, Apache Airflow, Kubernetes basics, AWS basics, Microsoft Azure basics
+* **Learning in Progress**: Spark, AWS Data Engineering services, Microsoft Azure Data Engineering services, Google Cloud Platform
 
-## IBM ETL Project: Car Dealership Data: [jrili/ibm-etl-car-dealership](https://github.com/jrili/ibm-etl-car-dealership)
-_ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
-Extract car dealership data (car model, manufacture year, price, fuel type) from multiple files of different formats, transform the float values to be rounded to two (2) decimals only, then load them to a single CSV file._
-- Repository Link: [jrili/ibm-etl-car-dealership](https://github.com/jrili/ibm-etl-car-dealership)
-- Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
-- Tools/Technology used: Python, Jupyter Notebook, Pandas
+# About Me
+* More than 10 years experience designing, developing, and maintaining backend systems and microservices deployed on cloud services
+* Certified in Data Engineering (DataCamp Career Track)
+* Actively building scalable, reliable data workflows and pipelines
+* Background in AI, Machine Learning, and Deep Learning (Master's degree)
 
-## IBM ETL Project: Heights and Weights: [jrili/ibm-etl-heights-weights](https://github.com/jrili/ibm-etl-heights-weights)
-_ETL project from IBM's [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) from Coursera.
-Extract height and weight data from multiple files of different formats, transform the values to the required units, then load them to a single CSV file._
-- Repository Link: [jrili/ibm-etl-heights-weights](https://github.com/jrili/ibm-etl-heights-weights)
-- Certificate of Course Completion: [Certificate](https://www.coursera.org/account/accomplishments/verify/TFH7N05KO7D3)
-- Tools/Technology used: Python, Jupyter Notebook, Pandas
+# Connect with Me
+* ***LinkedIn profile: [jessa-rili-migrino](https://www.linkedin.com/in/jessa-rili-migrino/)***
+
+
 
 
 
