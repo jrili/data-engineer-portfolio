@@ -29,7 +29,10 @@ This portfolio showcases my hands-on projects showcasing my skills in data extra
 
 # About Me
 * More than 10 years experience designing, developing, and maintaining backend systems and microservices deployed on cloud services
-* Certified in Data Engineering (DataCamp Career Track)
+* Certifications:
+    * DataCamp Associate Data Engineer ([Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/5dac6f85d32d86a8dccba020cbbeacd8f3c9ed11) | [Certification](https://www.datacamp.com/certificate/DEA0014963158934))
+    * DataCamp Data Engineer ([Track](https://www.datacamp.com/completed/statement-of-accomplishment/track/9ecdd3624b20f72960dd2c95a33273f05d8ae0ed) | [Certification](https://www.datacamp.com/certificate/DE0013679986474))
+    * IBM Data Engineering Foundations Specialization ([Certificate](https://www.coursera.org/account/accomplishments/specialization/HKLY7QWR6IVT))
 * Actively building scalable, reliable data workflows and pipelines
 * Background in AI, Machine Learning, and Deep Learning (Master's degree)
 
